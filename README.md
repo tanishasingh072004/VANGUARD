@@ -33,7 +33,7 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/tanisha072004/vanguard-landing-page.git
+git clone https://github.com/tanishasingh072004/vanguard-landing-page.git
 cd vanguard-landing-page
 Install Dependencies:
 
@@ -67,5 +67,7 @@ text
 ├── tailwind.config.js      # Font mappings & configurations
 ├── postcss.config.js       # PostCSS Tailwind compiler integration
 └── tsconfig.json           # TypeScript configuration
+
+
 ✍️ Author & Director
 Curated, designed, and directed by Tanisha Singh.
