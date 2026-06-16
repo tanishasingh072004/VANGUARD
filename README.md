@@ -33,7 +33,7 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/YOUR_USERNAME/vanguard-landing-page.git
+git clone https://github.com/tanisha072004/vanguard-landing-page.git
 cd vanguard-landing-page
 Install Dependencies:
 
